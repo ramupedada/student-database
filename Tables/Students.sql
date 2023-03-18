@@ -3,3 +3,5 @@ CREATE TABLE students (
   name TEXT NOT NULL,
   gender TEXT NOT NULL
 );
+
+alter table students add st_year number(4);
