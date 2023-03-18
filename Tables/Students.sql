@@ -5,3 +5,4 @@ CREATE TABLE students (
 );
 
 alter table students add st_year number(4);
+alter table students add st_age number(2);
